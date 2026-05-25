@@ -1,36 +1,126 @@
+# Offensive Python Journey
+
+```python
+>>> "Mi bitácora aprendiendo Python desde cero, con enfoque en hacking ofensivo, automatización, seguridad ofensiva y mentalidad Red Team."
+'Mi bitácora aprendiendo Python desde cero, con enfoque en hacking ofensivo, automatización, seguridad ofensiva y mentalidad Red Team.'
+```
+
 ![py-learning-journey](py_learning_journey.png)
 
 ---
 
-###  ¿Qué hay aquí?
+### Sobre este repositorio
 
-Ejercicios organizados por concepto. Cada uno con:
+Este repo no es un curso copiado ni una colección random de scripts.
 
-- El reto explicado
-- Mi solución
-- Por qué funciona
+Es mi camino aprendiendo Python de verdad:
+
+- entendiendo lógica
+- rompiendo errores
+- automatizando cosas
+- escribiendo código cada vez más limpio
+- y preparando las bases para seguridad ofensiva y Red Team.
+
+Acá documento ejercicios, conceptos, soluciones y aprendizajes mientras avanzo desde fundamentos hasta herramientas ofensivas más serias.
+
 ---
 
-###  Los retos
+### Objetivo
+
+Construir una base sólida en Python aplicada a:
+
+- scripting ofensivo
+- automatización
+- networking
+- parsing
+- manejo de archivos
+- concurrencia
+- explotación
+- tooling para pentesting
+- desarrollo de herramientas propias
+
+La idea no es solo “aprender Python”.
+
+La idea es pensar como alguien que construye herramientas.
+
+---
+
+### Estructura del repo
+
+```bash
+Retos/
+│
+├── Ejercicio_001/
+│   ├── Ejercicio1.md
+│   └── solucion.py
+│
+├── Ejercicio_002/
+│   ├── Ejercicio2.md
+│   └── solucion.py
+│
+└── ...
+```
+Cada ejercicio incluye:
+
+- explicación del reto
+- mi solución
+- análisis del código
+- conceptos aprendidos
+- posibles mejoras
+- errores comunes
+
+---
+
+### Retos actuales
 
 | # | Concepto | Estado |
-|---|----------|--------|
-| 1 | [callbacks-transformacion-listas](Retos/Ejercicio_001/Ejercicio1.md) | ✅ Listo |
-| 2 | ... | 🔜 |
-| 3 | ... | 🔜 |
+|---|---|---|
+| 1 | [Callbacks + transformación de listas](Retos/Ejercicio_001/) | ✅ |
+| 2 | [Generadores y Lazy Evaluation](Retos/Ejercicio_002/) | ✅ |
 
 ---
 
-###  Cómo usarlo
+### Filosofía del repo
 
-1. Agarra un ejercicio
-2. Léelo
-3. Intenta resolverlo
-4. Compara con la solución
+```python
+while True:
+
+    aprender()
+    romper_codigo()
+    entender_errores()
+    mejorar_logica()
+    construir_herramientas()
+
+    if copiar_y_pegar:
+        continue
+
+    if entender_problema:
+        evolucionar()
+```
 ---
 
-###  Tips
+### Cómo usar este repo
 
-- No copies. Entiende.
-- Modifica el código. Rompe cosas. Arréglalas.
-- Un reto por día y vas como avión.
+1. Escoge un ejercicio
+2. Léelo completo
+3. Intenta resolverlo por tu cuenta
+4. Compara enfoques
+5. Rompe el código
+6. Modifícalo
+7. Mejóralo
+
+---
+
+### Mentalidad
+
+> “Aprender a programar no es aprender sintaxis.
+> Es aprender a resolver problemas.”
+
+---
+
+### Notas
+
+Si también estás aprendiendo:
+haz los ejercicios, modifica cosas, rompe código y vuelve a construirlo.
+
+Ahí es donde realmente empiezas a entender.
