@@ -1,9 +1,6 @@
 # Offensive Python Journey
 
-```python
->>> "Mi bitácora aprendiendo Python desde cero, con enfoque en hacking ofensivo, automatización, seguridad ofensiva y mentalidad Red Team."
-'Mi bitácora aprendiendo Python desde cero, con enfoque en hacking ofensivo, automatización, seguridad ofensiva y mentalidad Red Team.'
-```
+> Mi bitácora aprendiendo Python desde cero, con enfoque en hacking ofensivo, automatización, seguridad ofensiva y mentalidad Red Team.'
 
 ![py-learning-journey](py_learning_journey.png)
 
