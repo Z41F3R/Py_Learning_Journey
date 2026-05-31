@@ -74,6 +74,7 @@ Cada ejercicio incluye:
 |---|---|---|
 | 1 | [Callbacks + transformación de listas](Retos/Ejercicio_001/) | ✅ |
 | 2 | [Generadores y Lazy Evaluation](Retos/Ejercicio_002/) | ✅ |
+| 3 | [Secuencias perezosas con yield](Retos/Ejercicio_003/) | ✅ |
 
 ---
 
