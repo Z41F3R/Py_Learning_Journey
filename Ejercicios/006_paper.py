@@ -6,9 +6,6 @@ def convertir_entero(valor):
     except ValueError:
         return "Entrada Invalida"
 
-
-    
-
 res = convertir_entero("444")
 print(type(res))
 print(res)
