@@ -56,7 +56,15 @@ Retos/
 │   └── solucion.py
 │
 └── ...
+
+Ejercicios/
+│
+├── 001_paper.py
+├── 002_paper.py
+├── 003_paper.py
+└── ...
 ```
+
 Cada ejercicio incluye:
 
 - explicación del reto
@@ -75,6 +83,15 @@ Cada ejercicio incluye:
 | 1 | [Callbacks + transformación de listas](Retos/Ejercicio_001/) | ✅ |
 | 2 | [Generadores y Lazy Evaluation](Retos/Ejercicio_002/) | ✅ |
 | 3 | [Secuencias perezosas con yield](Retos/Ejercicio_003/) | ✅ |
+
+---
+
+### Ejercicios de práctica
+
+Además de los retos, hay una carpeta con ejercicios de práctica sobre distintos conceptos de Python. 
+Si alguno te llama la atención, puedes abrirlo, modificarlo, romperlo y experimentar con él. 
+
+Ubicación: [Ejercicios/](Ejercicios/)
 
 ---
 
