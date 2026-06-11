@@ -7,3 +7,6 @@ def analizar_numero(numero):
 
 resultado = analizar_numero(-4)
 print(resultado)    
+
+# Uso de operadores Ternarios
+# Como usar el/if en una sola linea
