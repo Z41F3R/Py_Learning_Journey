@@ -1,19 +1,18 @@
 #!/usr/bin/env python3
 
-#def comprobar(numero):
-#    for n in range(2, numero):
-#        if numero % n == 0:
-#            print("RESIDUO 0")
-#        else:
-#            print("RESIDUO //")
+comprobar = lambda medio, numero: not any(numero % i == 0 for i in range(2, medio))
 
-#comprobar(11)
+def es_primo(numero, funcion):
+    medio = int(numero ** 0.5 + 1)
 
-numero = 100
-mitad = int(numero ** 0.5) + 1
+    if numero <= 1:
+        return False
+    else:
+        comprobacion = funcion(medio, numero)
+        return comprobacion
 
-print(mitad)
-
+r = es_primo(15, comprobar)
+print(r)
 
 # ==============================================================================
 # CONCEPTO 1: PROPIEDAD DE LOS FACTORES EMPAREJADOS (Los divisores van en parejas)
