@@ -47,13 +47,13 @@ La idea es pensar como alguien que construye herramientas.
 ```
 Conceptos/
 │
-├── Funciones/
-├── Generadores/
+├── Algoritmos/
+├── Colecciones/
 ├── Control_Flujo/
 ├── Excepciones/
-├── Colecciones/
-├── Strings/
-└── Algoritmos/
+├── Funciones/
+├── Generadores/
+└── Strings/
 ```
 
 Cada carpeta contiene ejercicios, ejemplos y documentación relacionados con un concepto específico de Python.
@@ -66,19 +66,19 @@ El objetivo es aprender los fundamentos del lenguaje de forma progresiva, entend
 
 Categoría
 
-[Funciones](Conceptos/Funciones/)
+[Algoritmos](Conceptos/Algoritmos/)
 
-[Generadores](Conceptos/Generadores/)
+[Colecciones](Conceptos/Colecciones/)
 
 [Control de Flujo](Conceptos/Control_Flujo/)
 
 [Excepciones](Conceptos/Excepciones/)
 
-[Colecciones](Conceptos/Colecciones/)
+[Funciones](Conceptos/Funciones/)
+
+[Generadores](Conceptos/Generadores/)
 
 [Strings](Conceptos/Strings/)
-
-[Algoritmos](Conceptos/Algoritmos/)
 
 ----------
 
