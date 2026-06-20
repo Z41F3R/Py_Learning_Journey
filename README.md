@@ -1,10 +1,9 @@
 # Offensive Python Journey
 
-> Mi bitácora aprendiendo Python desde cero, con enfoque en hacking ofensivo, automatización, seguridad ofensiva y mentalidad Red Team.'
-
+> Mi bitácora aprendiendo Python desde cero, con enfoque en hacking ofensivo, automatización, seguridad ofensiva y mentalidad Red Team.
 ![py-learning-journey](py_learning_journey.png)
 
----
+----------
 
 ### Sobre este repositorio
 
@@ -12,92 +11,73 @@ Este repo no es un curso copiado ni una colección random de scripts.
 
 Es mi camino aprendiendo Python de verdad:
 
-- entendiendo lógica
-- rompiendo errores
-- automatizando cosas
-- escribiendo código cada vez más limpio
-- y preparando las bases para seguridad ofensiva y Red Team.
+-   entendiendo lógica
+-   rompiendo errores
+-   automatizando cosas
+-   escribiendo código cada vez más limpio
+-   y preparando las bases para seguridad ofensiva y Red Team.
 
 Acá documento ejercicios, conceptos, soluciones y aprendizajes mientras avanzo desde fundamentos hasta herramientas ofensivas más serias.
 
----
+----------
 
 ### Objetivo
 
 Construir una base sólida en Python aplicada a:
 
-- scripting ofensivo
-- automatización
-- networking
-- parsing
-- manejo de archivos
-- concurrencia
-- explotación
-- tooling para pentesting
-- desarrollo de herramientas propias
+-   scripting ofensivo
+-   automatización
+-   networking
+-   parsing
+-   manejo de archivos
+-   concurrencia
+-   explotación
+-   tooling para pentesting
+-   desarrollo de herramientas propias
 
-La idea no es solo “aprender Python”.
+La idea no es solo aprender Python.
 
 La idea es pensar como alguien que construye herramientas.
 
----
+----------
 
 ### Estructura del repo
 
-```bash
-Retos/
+```
+Conceptos/
 │
-├── Ejercicio_001/
-│   ├── Ejercicio1.md
-│   └── solucion.py
-│
-├── Ejercicio_002/
-│   ├── Ejercicio2.md
-│   └── solucion.py
-│
-└── ...
-
-Ejercicios/
-│
-├── 001_paper.py
-├── 002_paper.py
-├── 003_paper.py
-└── ...
+├── Funciones/
+├── Generadores/
+├── Control_Flujo/
+├── Excepciones/
+├── Colecciones/
+├── Strings/
+└── Algoritmos/
 ```
 
-Cada ejercicio incluye:
+Cada carpeta contiene ejercicios, ejemplos y documentación relacionados con un concepto específico de Python.
 
-- explicación del reto
-- mi solución
-- análisis del código
-- conceptos aprendidos
-- posibles mejoras
-- errores comunes
+El objetivo es aprender los fundamentos del lenguaje de forma progresiva, entendiendo cómo funciona cada pieza antes de aplicarla en automatización, scripting y seguridad ofensiva.
 
----
+----------
 
-### Retos actuales
+### 📚 Conceptos disponibles
 
-| # | Concepto | Estado |
-|---|---|---|
-| 1 | [Callbacks + transformación de listas](Retos/Ejercicio_001/) | ✅ |
-| 2 | [Generadores y Lazy Evaluation](Retos/Ejercicio_002/) | ✅ |
-| 3 | [Secuencias perezosas con yield](Retos/Ejercicio_003/) | ✅ |
+Categoría
 
----
+[Funciones](Conceptos/Funciones/)
+[Generadores](Conceptos/Generadores/)
+[Control de Flujo](Conceptos/Control_Flujo/)
+[Excepciones](Conceptos/Excepciones/)
+[Colecciones](Conceptos/Colecciones/)
+[Strings](Conceptos/Strings/)
+[Algoritmos](Conceptos/Algoritmos/)
 
-### Ejercicios de práctica
-
-Además de los retos, hay una carpeta con ejercicios de práctica sobre distintos conceptos de Python. 
-Si alguno te llama la atención, puedes abrirlo, modificarlo, romperlo y experimentar con él. 
-
-Ubicación: [Ejercicios/](Ejercicios/)
-
----
+----------
 
 ### Filosofía del repo
 
-```python
+```
 while True:
 
     aprender()
@@ -112,30 +92,35 @@ while True:
     if entender_problema:
         evolucionar()
 ```
----
+
+----------
 
 ### Cómo usar este repo
 
-1. Escoge un ejercicio
-2. Léelo completo
-3. Intenta resolverlo por tu cuenta
-4. Compara enfoques
-5. Rompe el código
-6. Modifícalo
-7. Mejóralo
+1.  Escoge un concepto
+2.  Explora los ejercicios disponibles
+3.  Intenta resolver los problemas por tu cuenta
+4.  Compara enfoques
+5.  Rompe el código
+6.  Modifícalo
+7.  Mejóralo
 
----
+----------
 
 ### Mentalidad
 
-> “Aprender a programar no es aprender sintaxis.
+> “Aprender a programar no es aprender sintaxis.  
 > Es aprender a resolver problemas.”
 
----
+----------
 
 ### Notas
 
-Si también estás aprendiendo:
-haz los ejercicios, modifica cosas, rompe código y vuelve a construirlo.
+Si también estás aprendiendo Python:
+
+-   explora los conceptos
+-   modifica los ejercicios
+-   rompe el código
+-   vuelve a construirlo
 
 Ahí es donde realmente empiezas a entender.
