@@ -67,11 +67,17 @@ El objetivo es aprender los fundamentos del lenguaje de forma progresiva, entend
 Categoría
 
 [Funciones](Conceptos/Funciones/)
+
 [Generadores](Conceptos/Generadores/)
+
 [Control de Flujo](Conceptos/Control_Flujo/)
+
 [Excepciones](Conceptos/Excepciones/)
+
 [Colecciones](Conceptos/Colecciones/)
+
 [Strings](Conceptos/Strings/)
+
 [Algoritmos](Conceptos/Algoritmos/)
 
 ----------
