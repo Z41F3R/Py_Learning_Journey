@@ -66,13 +66,13 @@ El objetivo es aprender los fundamentos del lenguaje de forma progresiva, entend
 
 Categoría
 
-[Algoritmos](Conceptos/Algoritmos/)
-[Colecciones](Conceptos/Colecciones/)
-[Control de Flujo](Conceptos/Control_Flujo/)
-[Excepciones](Conceptos/Excepciones/)
-[Funciones](Conceptos/Funciones/)
-[Generadores](Conceptos/Generadores/)
-[Strings](Conceptos/Strings/)
+[Algoritmos](Conceptos/Algoritmos/) |
+[Colecciones](Conceptos/Colecciones/) |
+[Control de Flujo](Conceptos/Control_Flujo/) |
+[Excepciones](Conceptos/Excepciones/) |
+[Funciones](Conceptos/Funciones/) |
+[Generadores](Conceptos/Generadores/) |
+[Strings](Conceptos/Strings/) |
 
 ----------
 
