@@ -89,7 +89,7 @@ Actualmente encontrarás ejercicios relacionados con:
 * [Algoritmos](Ejercicios/Algoritmos/)
 * [Archivos](Ejercicios/Archivos/)
 * [Colecciones](Ejercicios/Colecciones/)
-* [Control de Flujo](Ejercicios/Control_de_Flujo/)
+* [Control de Flujo](Ejercicios/Control_Flujo/)
 * [Excepciones](Ejercicios/Excepciones/)
 * [Funciones](Ejercicios/Funciones/)
 * [Generadores](Ejercicios/Generadores/)
