@@ -86,7 +86,7 @@ Los ejercicios están agrupados por concepto para facilitar la práctica y la co
 
 Actualmente encontrarás ejercicios relacionados con:
 
-* Algoritmos
+* [Algoritmos](Ejercicios/Algoritmos/)
 * Archivos
 * Colecciones
 * Control de Flujo
