@@ -89,12 +89,12 @@ Actualmente encontrarás ejercicios relacionados con:
 * [Algoritmos](Ejercicios/Algoritmos/)
 * [Archivos](Ejercicios/Archivos/)
 * [Colecciones](Ejercicios/Colecciones/)
-* Control de Flujo
+* [Control de Flujo](Ejercicios/Control_de_Flujo/)
 * [Excepciones](Ejercicios/Excepciones/)
 * [Funciones](Ejercicios/Funciones/)
 * [Generadores](Ejercicios/Generadores/)
-* Mini Herramientas
-* Strings[Strings](Ejercicios/Strings/)
+* [Mini Herramientas](Ejercicios/Mini_Herramientas/)
+* [Strings](Ejercicios/Strings/)
 
 Cada ejercicio está pensado para reforzar un concepto específico mediante código.
 
