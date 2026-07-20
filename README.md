@@ -87,14 +87,14 @@ Los ejercicios están agrupados por concepto para facilitar la práctica y la co
 Actualmente encontrarás ejercicios relacionados con:
 
 * [Algoritmos](Ejercicios/Algoritmos/)
-* Archivos
-* Colecciones
+* [Archivos](Ejercicios/Archivos/)
+* [Colecciones](Ejercicios/Colecciones/)
 * Control de Flujo
-* Excepciones
-* Funciones
-* Generadores
+* [Excepciones](Ejercicios/Excepciones/)
+* [Funciones](Ejercicios/Funciones/)
+* [Generadores](Ejercicios/Generadores/)
 * Mini Herramientas
-* Strings
+* Strings[Strings](Ejercicios/Strings/)
 
 Cada ejercicio está pensado para reforzar un concepto específico mediante código.
 
